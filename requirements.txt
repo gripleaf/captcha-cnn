@@ -60,7 +60,7 @@ singledispatch==3.4.0.3
 six==1.10.0
 smart-open==1.5.3
 subprocess32==3.2.7
-tensorflow==1.1.0
+tensorflow==1.15.0
 urllib3==1.21.1
 vine==1.1.4
 Werkzeug==0.12.2
