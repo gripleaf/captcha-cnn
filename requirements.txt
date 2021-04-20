@@ -45,7 +45,7 @@ peewee==2.10.2
 Pillow==5.0.0
 progressbar==2.3
 protobuf==3.3.0
-py==1.5.2
+py==1.10.0
 pylint==1.7.2
 pyparsing==2.2.0
 pytesseract==0.1.7
