@@ -44,7 +44,7 @@ pbr==3.0.1
 peewee==2.10.2
 Pillow==5.0.0
 progressbar==2.3
-protobuf==3.3.0
+protobuf==3.18.3
 py==1.5.2
 pylint==1.7.2
 pyparsing==2.2.0
